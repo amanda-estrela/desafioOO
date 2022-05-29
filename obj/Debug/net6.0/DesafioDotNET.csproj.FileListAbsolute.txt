@@ -1,0 +1,15 @@
+C:\Users\efern\Documents\DesafioDotNET\bin\Debug\net6.0\DesafioDotNET.exe
+C:\Users\efern\Documents\DesafioDotNET\bin\Debug\net6.0\DesafioDotNET.deps.json
+C:\Users\efern\Documents\DesafioDotNET\bin\Debug\net6.0\DesafioDotNET.runtimeconfig.json
+C:\Users\efern\Documents\DesafioDotNET\bin\Debug\net6.0\DesafioDotNET.dll
+C:\Users\efern\Documents\DesafioDotNET\bin\Debug\net6.0\DesafioDotNET.pdb
+C:\Users\efern\Documents\DesafioDotNET\obj\Debug\net6.0\DesafioDotNET.csproj.AssemblyReference.cache
+C:\Users\efern\Documents\DesafioDotNET\obj\Debug\net6.0\DesafioDotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efern\Documents\DesafioDotNET\obj\Debug\net6.0\DesafioDotNET.AssemblyInfoInputs.cache
+C:\Users\efern\Documents\DesafioDotNET\obj\Debug\net6.0\DesafioDotNET.AssemblyInfo.cs
+C:\Users\efern\Documents\DesafioDotNET\obj\Debug\net6.0\DesafioDotNET.csproj.CoreCompileInputs.cache
+C:\Users\efern\Documents\DesafioDotNET\obj\Debug\net6.0\DesafioDotNET.dll
+C:\Users\efern\Documents\DesafioDotNET\obj\Debug\net6.0\refint\DesafioDotNET.dll
+C:\Users\efern\Documents\DesafioDotNET\obj\Debug\net6.0\DesafioDotNET.pdb
+C:\Users\efern\Documents\DesafioDotNET\obj\Debug\net6.0\DesafioDotNET.genruntimeconfig.cache
+C:\Users\efern\Documents\DesafioDotNET\obj\Debug\net6.0\ref\DesafioDotNET.dll
